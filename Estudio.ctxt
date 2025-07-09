@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Estudio
+comment0.text=\r\n\ \r\n\ Con\ esta\ clase\ se\ inicializa\ el\ programa.\ \r\n\ Para\ ello\ se\ introduce\ el\ m\u00E9todo\ main\ que\ incluye\ la\ creaci\u00F3n\ de\ un\ objeto\r\n\ men\u00FA\ y\ una\ llamada\ al\ men\u00FA\ principal.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ 27/02/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

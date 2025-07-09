@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Vivienda
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Proyecto.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Vivienda()
+comment2.params=dniCliente\ direccion
+comment2.target=Vivienda(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDniCliente()
+comment4.params=dniCliente
+comment4.target=void\ setDniCliente(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

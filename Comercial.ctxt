@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Comercial
+comment0.text=\r\n\ @\ (\#)\ Comercial.java\r\n\ \r\n\ Clase\ Comercial.\r\n\ Es\ una\ de\ las\ subclases\ que\ hereda\ de\ Proyecto.\ A\u00F1ade\ los\ atributos\ espec\u00EDficos\ para\r\n\ este\ tipo\ de\ proyecto.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 2022\r\n
+comment1.params=
+comment1.target=Comercial()
+comment2.params=dniCliente\ direccion\ proyectoID\ tipoproyecto\ fechasolicitud\ fechafinalizacion\ duracion\ tipoestados\ superficieT\ superficieEd\ finalidad
+comment2.target=Comercial(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ TiposEnumerados.Enumerados.TipoProyectos,\ java.util.Date,\ java.util.Date,\ java.lang.Integer,\ TiposEnumerados.Enumerados.TipoEstados,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

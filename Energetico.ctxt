@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Energetico
+comment0.text=\r\n\ @\ (\#)\ Energetico.java\r\n\ \r\n\ Clase\ Energetico.\r\n\ Es\ una\ de\ las\ subclases\ que\ hereda\ de\ Certificado.\ A\u00F1ade\ los\ atributos\ espec\u00EDficos\ para\r\n\ este\ tipo\ de\ certificado.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 2022\r\n
+comment1.params=
+comment1.target=Energetico()
+comment2.params=dniCliente\ direccion\ certificadoID\ tipocertificado\ fechasolicitud\ fechaentrega\ tipoeficiencia
+comment2.target=Energetico(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ TiposEnumerados.Enumerados.TipoCertificados,\ java.util.Date,\ java.util.Date,\ TiposEnumerados.Enumerados.TipoEficienciaEnergetica)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

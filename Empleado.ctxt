@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ @\ (\#)\ Empleado.java\ \ \ \r\n\ \r\n\ Clase\ Empleado.\r\n\ Es\ una\ subclase\ que\ hereda\ de\ la\ superclase\ Persona.\r\n\ Incluye\ a\ los\ empleados\ que\ podemos\ encontrar\ en\ el\ estudio\:\ administrador/a,\r\n\ arquitecto/a,\ aparejador/a,\ contable.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 2022\r\n
+comment1.params=
+comment1.target=Empleado()
+comment2.params=nombre\ dni\ telefono\ correo\ puesto
+comment2.target=Empleado(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.String,\ TiposEnumerados.Enumerados.TipoEmpleados)
+comment3.params=nombre\ telefono\ correo\ puesto
+comment3.target=Empleado(java.lang.String,\ java.lang.Integer,\ java.lang.String,\ TiposEnumerados.Enumerados.TipoEmpleados)
+comment4.params=
+comment4.target=TiposEnumerados.Enumerados.TipoEmpleados\ getPuesto()
+comment5.params=puesto
+comment5.target=void\ setPuesto(TiposEnumerados.Enumerados.TipoEmpleados)
+comment6.params=
+comment6.target=Empleado\ altaEmpleados()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

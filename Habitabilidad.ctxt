@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Habitabilidad
+comment0.text=\r\n\ @\ (\#)\ Habitabilidad.java\r\n\ \r\n\ Clase\ Habitabilidad.\r\n\ Es\ una\ de\ las\ subclases\ que\ hereda\ de\ Certificado.\ A\u00F1ade\ los\ atributos\ espec\u00EDficos\ para\r\n\ este\ tipo\ de\ certificado.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 2022\r\n
+comment1.params=
+comment1.target=Habitabilidad()
+comment2.params=dniCliente\ direccion\ certificadoID\ tipocertificado\ fechasolicitud\ fechaentrega\ fecha_anteriorCertificado
+comment2.target=Habitabilidad(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ TiposEnumerados.Enumerados.TipoCertificados,\ java.util.Date,\ java.util.Date,\ java.util.Date)
+comment3.params=
+comment3.target=java.util.Date\ getFecha_AnteriorCertificado()
+comment4.params=fecha_anteriorCertificado
+comment4.target=void\ setFecha_AnteriorCertificado(java.util.Date)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

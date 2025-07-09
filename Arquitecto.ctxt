@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Arquitecto
+comment0.text=\r\n\ @\ (\#)\ Arquitecto.java\r\n\ \r\n\ Clase\ Arquitecto.\r\n\ Es\ una\ de\ las\ subclases\ que\ hereda\ de\ Persona\ y\ de\ Empleado.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 2022\r\n
+comment1.params=nombre\ dni\ telefono\ correo\ puesto
+comment1.target=Arquitecto(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.String,\ TiposEnumerados.Enumerados.TipoEmpleados)
+comment2.params=nombre\ telefono\ correo\ puesto
+comment2.target=Arquitecto(java.lang.String,\ java.lang.Integer,\ java.lang.String,\ TiposEnumerados.Enumerados.TipoEmpleados)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

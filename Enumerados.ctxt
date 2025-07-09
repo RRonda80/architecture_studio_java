@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enumerados
+comment0.text=\r\n\ @\ (\#)\ Enumerados.java\r\n\ \r\n\ Clase\ TipoEnumerados.\r\n\ En\ esta\ clase\ guardamos\ una\ serie\ de\ tipos\ enumerados\ que\ nos\ van\ a\ permitir\r\n\ clasificar\ ciertos\ objeto\ en\ funci\u00F3n\ de\ su\ clasificaci\u00F3n.\r\n\r\n\ @autora\ Romina\ Ronda\r\n\ @versi\u00F3n\ mayo\ 202\r\n
+comment1.params=
+comment1.target=java.lang.String\ menuTipoEmpleados()
+comment2.params=
+comment2.target=java.lang.String\ menuTipoProyectos()
+comment3.params=
+comment3.target=java.lang.String\ menuTipoCertificados()
+comment4.params=
+comment4.target=java.lang.String\ menuTipoEficienciaEnergetica()
+comment5.params=
+comment5.target=java.lang.String\ menuTipoEstados()
+comment6.params=
+comment6.target=java.lang.String\ menuTipoEstadosObra()
+numComments=7
